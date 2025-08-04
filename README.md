@@ -23,7 +23,7 @@ Subgroup Discovery aims to identify subpopulations in data that differ significa
 **SDUEBA** introduces a new approach based on the following components:
 
 - Embedding generation (Word2Vec, BERT)
-- Clustering of instance embeddings (e.g., k-means, HDBSCAN, TSPG clustering)
+- Clustering of instance embeddings (e.g.,Agglomerative, k-means, HDBSCAN, TSPG clustering)
 - Rule induction using decision trees
 - Interpretable subgroup scoring and filtering
 
