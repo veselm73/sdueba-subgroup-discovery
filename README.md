@@ -4,7 +4,8 @@
 
 This repository contains the showcase of **SDUEBA**, a scalable and interpretable pipeline for Subgroup Discovery (SD) using modern embedding techniques, clustering algorithms, and rule induction methods. This work was developed as part of the Bachelor's thesis *"Subgroup Detection Using Embedding-Based Approaches"* by Matyáš Veselý at the Faculty of Nuclear Sciences and Physical Engineering, Czech Technical University in Prague (FNSP CTU), in collaboration with Workday Prague.
 
-**Thesis PDF:**  to be publicated
+**Thesis PDF:** to be publicated
+
 **Author:** Matyáš Veselý  
 **Institution:** Faculty of Nuclear Sciences and Physical Engineering, Czech Technical University in Prague (FNSP CTU)  
 **Supervisor:** Ing. Jiří Franc, PhD.  
