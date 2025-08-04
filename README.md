@@ -29,7 +29,8 @@ Subgroup Discovery aims to identify subpopulations in data that differ significa
 - Interpretable subgroup scoring and filtering
 
 The pipeline is modular and capable of handling large, high-dimensional, and heterogeneous datasets.
->Please note that the pipeline architecture may vary slightly across the included notebooks. This reflects the gradual development of the method throughout the thesis, where new components and features were introduced incrementally based on the needs of each dataset and experimental setup.
+
+>Please note that the pipeline architecture varies slightly across the included notebooks. This reflects the gradual development of the method throughout the thesis, where new components and features were introduced incrementally based on the needs of each dataset and experimental setup.
 
 ---
 
